@@ -1,0 +1,26 @@
+table, td
+{
+	border: 2px solid black;
+	box-shadow: 0 4px #666;
+	padding: 5px;
+	background-color: black;
+	/*border-radius: 25px;*/
+}
+table
+{
+	border-spacing: 5px;
+	/*border-radius: 25px;*/
+}
+input[type = "text"]
+{
+	 background-color:white; 
+	 width:100% 
+}
+button:hover {background-color: white}
+button 
+{
+	background-color:lightblue; 
+	color: black;
+	box-shadow: 0 4px #666;
+	width:100%
+} 
